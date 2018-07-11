@@ -1,0 +1,11 @@
+d:\my computer documents\documents\visual studio 2012\Projects\Indexing\Indexing\bin\Debug\Indexing.exe.config
+d:\my computer documents\documents\visual studio 2012\Projects\Indexing\Indexing\bin\Debug\Indexing.exe
+d:\my computer documents\documents\visual studio 2012\Projects\Indexing\Indexing\bin\Debug\Indexing.pdb
+d:\my computer documents\documents\visual studio 2012\Projects\Indexing\Indexing\bin\Debug\Indexing.xml
+d:\my computer documents\documents\visual studio 2012\Projects\Indexing\Indexing\obj\Debug\Indexing.Form1.resources
+d:\my computer documents\documents\visual studio 2012\Projects\Indexing\Indexing\obj\Debug\Indexing.Resources.resources
+d:\my computer documents\documents\visual studio 2012\Projects\Indexing\Indexing\obj\Debug\Indexing.vbproj.GenerateResource.Cache
+d:\my computer documents\documents\visual studio 2012\Projects\Indexing\Indexing\obj\Debug\Indexing.exe
+d:\my computer documents\documents\visual studio 2012\Projects\Indexing\Indexing\obj\Debug\Indexing.xml
+d:\my computer documents\documents\visual studio 2012\Projects\Indexing\Indexing\obj\Debug\Indexing.pdb
+D:\My Computer Documents\Documents\Visual Studio 2012\Projects\Indexing\Indexing\obj\Debug\Indexing.Form2.resources
